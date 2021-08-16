@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChelcieDeAlmeida/social-network-api.git"
+    "url": "git+https://github.com/PrinceAdelXX/Social-Network-API"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ChelcieDeAlmeida/social-network-api/issues"
+    "url": "https://github.com/PrinceAdelXX/Social-Network-API/issues"
   },
-  "homepage": "https://github.com/ChelcieDeAlmeida/social-network-api#readme",
+  "homepage": "https://github.com/PrinceAdelXX/Social-Network-API#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.12.13"
