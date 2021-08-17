@@ -19,7 +19,10 @@ The Social Network app is an API for a social network web application where user
 * At this point, the project is ready. Let's now run ```npm start``` on your terminal (make sure you're on the root directory where the 'server.js' file is located)
 * You can now test some of the routes as shown in the video below on either Insomnia or Postman
 
-## WalkThrough Video
+## Walkthrough Video
 
-https://drive.google.com/file/d/10G2yA3VkGOmmi_cs_nvlPqbyv5pkc228/view?usp=sharing
+
+
+https://user-images.githubusercontent.com/34521827/129726828-2fda7a4b-e203-4182-8a9c-9435419242e9.mp4
+
 
